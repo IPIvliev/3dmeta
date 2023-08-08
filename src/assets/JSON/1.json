@@ -1,0 +1,40 @@
+{
+    "dna": "30472",
+    "name": "#1",
+    "description": "The collection of pythons by crypto artist Marina White.",
+    "image": "http://razrus.myjino.ru/metadata/1f.png",
+    "edition": 1,
+    "date": 1631730313848,
+    "attributes": [
+        {
+            "trait_type": "1-body",
+            "value": "Chamomile"
+        },
+        {
+            "trait_type": "2-stomach",
+            "value": "Black"
+        },
+        {
+            "trait_type": "3-accessory",
+            "value": "Jabot"
+        },
+        {
+            "trait_type": "4-eye",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "5-hat",
+            "value": "Cook"
+        },
+        {
+            "trait_type": "downloadable",
+            "value": true
+        },
+        {
+            "trait_type": "downloadPrice",
+            "value": 0.03
+        }
+
+    ],
+    "compiler": "CryptoPythons Art Engine"
+}
